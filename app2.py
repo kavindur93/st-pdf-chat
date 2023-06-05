@@ -11,9 +11,6 @@ from langchain.callbacks import get_openai_callback
 import os
 
 
-# os.environ["OPENAI_API_KEY"] = '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'
-
-
 # Sidebar contents
 with st.sidebar:
     st.title('🤗💬 LLM Chat App')
